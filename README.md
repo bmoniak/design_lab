@@ -13,5 +13,5 @@ There are a total of three Jupyter notebooks, each one of them serving different
 - *best_model.pth - unfortunately the trained model is too big to upload on github as the maximum file size is 100 MB. In case you'd like to access the file please contact us - we will sort something out :)*
 
 ## Authors: 
-Adrian Smoła
+Adrian Smoła<br>
 Bartłomiej Moniak
